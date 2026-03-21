@@ -1,0 +1,9906 @@
+{
+  "children": [
+    {
+      "id": "child_1",
+      "name": "طفل مجهول 1",
+      "age_estimate": 2,
+      "found_location": "الجيزة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            29,
+            29
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            30,
+            19
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            19,
+            12
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            11,
+            25
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            15,
+            19
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            31,
+            10
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            9,
+            8
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            27,
+            28
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            25,
+            27
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            29,
+            30
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            12,
+            31
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            23,
+            10
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            18,
+            14
+          ]
+        }
+      ]
+    },
+    {
+      "id": "child_2",
+      "name": "طفل مجهول 2",
+      "age_estimate": 7,
+      "found_location": "المنصورة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            21,
+            23
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            14,
+            11
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            27,
+            24
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            29,
+            9
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            18,
+            25
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            19,
+            17
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            27,
+            19
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            31,
+            13
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            8,
+            19
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            31,
+            16
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            24,
+            17
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            24,
+            24
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            27,
+            32
+          ]
+        }
+      ]
+    },
+    {
+      "id": "child_3",
+      "name": "طفل مجهول 3",
+      "age_estimate": 4,
+      "found_location": "المنصورة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            9,
+            10
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            25,
+            25
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            29,
+            18
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            15,
+            20
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            19,
+            17
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            10,
+            14
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            18,
+            8
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            24,
+            26
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            16,
+            13
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            18,
+            28
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            24,
+            24
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            14,
+            10
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            20,
+            31
+          ]
+        }
+      ]
+    },
+    {
+      "id": "child_4",
+      "name": "طفل مجهول 4",
+      "age_estimate": 7,
+      "found_location": "الجيزة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            8,
+            16
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            28,
+            12
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            12,
+            16
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            29,
+            9
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            16,
+            21
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            18,
+            23
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            9,
+            23
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            10,
+            16
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            9,
+            13
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            22,
+            13
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            32,
+            30
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            18,
+            14
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            11,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "id": "child_5",
+      "name": "طفل مجهول 5",
+      "age_estimate": 8,
+      "found_location": "المنصورة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            31,
+            13
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            19,
+            30
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            21,
+            19
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            23,
+            14
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            19,
+            16
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            30,
+            8
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            31,
+            18
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            28,
+            11
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            28,
+            26
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            8,
+            24
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            9,
+            8
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            14,
+            9
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            24,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "id": "child_6",
+      "name": "طفل مجهول 6",
+      "age_estimate": 9,
+      "found_location": "الجيزة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            9,
+            8
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            19,
+            10
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            30,
+            25
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            30,
+            12
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            12,
+            24
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            22,
+            28
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            17,
+            28
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            15,
+            9
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            29,
+            15
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            21,
+            25
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            13,
+            25
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            21,
+            18
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            18,
+            23
+          ]
+        }
+      ]
+    },
+    {
+      "id": "child_7",
+      "name": "طفل مجهول 7",
+      "age_estimate": 7,
+      "found_location": "الإسكندرية",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            19,
+            18
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            25,
+            15
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            14,
+            31
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            14,
+            26
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            15,
+            21
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            10,
+            15
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            18,
+            31
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            32,
+            16
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            13,
+            28
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            21,
+            13
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            13,
+            27
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            26,
+            14
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            8,
+            31
+          ]
+        }
+      ]
+    },
+    {
+      "id": "child_8",
+      "name": "طفل مجهول 8",
+      "age_estimate": 6,
+      "found_location": "المنصورة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            26,
+            32
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            32,
+            9
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            32,
+            14
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            19,
+            24
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            11,
+            15
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            27,
+            25
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            19,
+            20
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            31,
+            29
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            12,
+            23
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            24,
+            21
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            15,
+            13
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            32,
+            23
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            14,
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "id": "child_9",
+      "name": "طفل مجهول 9",
+      "age_estimate": 7,
+      "found_location": "القاهرة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            8,
+            17
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            30,
+            20
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            18,
+            14
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            14,
+            16
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            8,
+            27
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            8,
+            26
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            11,
+            25
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            19,
+            11
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            29,
+            27
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            27,
+            21
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            16,
+            27
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            16,
+            22
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            10,
+            14
+          ]
+        }
+      ]
+    },
+    {
+      "id": "child_10",
+      "name": "طفل مجهول 10",
+      "age_estimate": 7,
+      "found_location": "الإسكندرية",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            15,
+            13
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            13,
+            24
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            32,
+            21
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            23,
+            27
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            25,
+            24
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            29,
+            10
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            30,
+            10
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            10,
+            28
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            19,
+            14
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            14,
+            15
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            30,
+            26
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            32,
+            26
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            8,
+            11
+          ]
+        }
+      ]
+    },
+    {
+      "id": "child_11",
+      "name": "طفل مجهول 11",
+      "age_estimate": 2,
+      "found_location": "الإسكندرية",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            21,
+            12
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            21,
+            32
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            11,
+            15
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            8,
+            32
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            15,
+            12
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            26,
+            32
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            18,
+            17
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            23,
+            15
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            31,
+            24
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            20,
+            32
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            17,
+            23
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            24,
+            31
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            8,
+            14
+          ]
+        }
+      ]
+    },
+    {
+      "id": "child_12",
+      "name": "طفل مجهول 12",
+      "age_estimate": 2,
+      "found_location": "القاهرة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            27,
+            9
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            19,
+            24
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            22,
+            11
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            20,
+            10
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            28,
+            21
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            8,
+            31
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            31,
+            22
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            10,
+            8
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            29,
+            32
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            28,
+            23
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            16,
+            9
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            16,
+            14
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            30,
+            22
+          ]
+        }
+      ]
+    },
+    {
+      "id": "child_13",
+      "name": "طفل مجهول 13",
+      "age_estimate": 4,
+      "found_location": "الجيزة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            17,
+            17
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            20,
+            8
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            17,
+            14
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            9,
+            30
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            25,
+            32
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            19,
+            19
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            15,
+            13
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            27,
+            23
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            24,
+            21
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            11,
+            11
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            18,
+            29
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            25,
+            9
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            26,
+            17
+          ]
+        }
+      ]
+    },
+    {
+      "id": "child_14",
+      "name": "طفل مجهول 14",
+      "age_estimate": 5,
+      "found_location": "الجيزة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            24,
+            31
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            23,
+            16
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            26,
+            8
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            25,
+            23
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            13,
+            26
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            10,
+            16
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            22,
+            9
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            10,
+            15
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            9,
+            8
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            31,
+            29
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            19,
+            16
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            23,
+            24
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            15,
+            23
+          ]
+        }
+      ]
+    },
+    {
+      "id": "child_15",
+      "name": "طفل مجهول 15",
+      "age_estimate": 10,
+      "found_location": "المنصورة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            25,
+            22
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            29,
+            20
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            19,
+            29
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            27,
+            31
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            23,
+            19
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            24,
+            11
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            28,
+            28
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            32,
+            30
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            13,
+            17
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            28,
+            8
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            9,
+            27
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            20,
+            17
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            20,
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "id": "child_16",
+      "name": "طفل مجهول 16",
+      "age_estimate": 9,
+      "found_location": "القاهرة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            9,
+            28
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            13,
+            26
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            29,
+            31
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            14,
+            13
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            10,
+            24
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            28,
+            19
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            8,
+            16
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            14,
+            15
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            15,
+            9
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            11,
+            31
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            28,
+            12
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            8,
+            20
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            25,
+            21
+          ]
+        }
+      ]
+    },
+    {
+      "id": "child_17",
+      "name": "طفل مجهول 17",
+      "age_estimate": 11,
+      "found_location": "الجيزة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            28,
+            8
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            22,
+            30
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            16,
+            21
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            30,
+            29
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            12,
+            9
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            32,
+            32
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            20,
+            29
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            32,
+            11
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            26,
+            20
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            31,
+            18
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            26,
+            30
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            12,
+            15
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            24,
+            14
+          ]
+        }
+      ]
+    },
+    {
+      "id": "child_18",
+      "name": "طفل مجهول 18",
+      "age_estimate": 6,
+      "found_location": "الإسكندرية",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            29,
+            26
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            17,
+            26
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            18,
+            8
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            27,
+            24
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            10,
+            23
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            18,
+            17
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            28,
+            20
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            18,
+            32
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            9,
+            24
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            11,
+            13
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            10,
+            16
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            16,
+            21
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            13,
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "id": "child_19",
+      "name": "طفل مجهول 19",
+      "age_estimate": 8,
+      "found_location": "الجيزة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            10,
+            32
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            17,
+            24
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            17,
+            30
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            15,
+            18
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            8,
+            24
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            20,
+            32
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            9,
+            27
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            10,
+            25
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            18,
+            13
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            25,
+            10
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            10,
+            14
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            20,
+            29
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            19,
+            18
+          ]
+        }
+      ]
+    },
+    {
+      "id": "child_20",
+      "name": "طفل مجهول 20",
+      "age_estimate": 2,
+      "found_location": "القاهرة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            18,
+            16
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            19,
+            29
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            30,
+            26
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            29,
+            30
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            11,
+            14
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            20,
+            21
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            26,
+            14
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            25,
+            26
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            21,
+            18
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            17,
+            10
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            27,
+            8
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            16,
+            29
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            10,
+            11
+          ]
+        }
+      ]
+    },
+    {
+      "id": "child_21",
+      "name": "طفل مجهول 21",
+      "age_estimate": 2,
+      "found_location": "القاهرة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            31,
+            26
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            25,
+            19
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            25,
+            11
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            28,
+            26
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            16,
+            27
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            29,
+            23
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            26,
+            11
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            11,
+            8
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            15,
+            17
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            15,
+            31
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            10,
+            29
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            15,
+            9
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            30,
+            11
+          ]
+        }
+      ]
+    },
+    {
+      "id": "child_22",
+      "name": "طفل مجهول 22",
+      "age_estimate": 5,
+      "found_location": "المنصورة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            30,
+            12
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            11,
+            28
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            23,
+            9
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            19,
+            9
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            9,
+            30
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            16,
+            15
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            31,
+            31
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            25,
+            31
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            32,
+            23
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            12,
+            18
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            17,
+            12
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            32,
+            19
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            21,
+            21
+          ]
+        }
+      ]
+    },
+    {
+      "id": "child_23",
+      "name": "طفل مجهول 23",
+      "age_estimate": 3,
+      "found_location": "الإسكندرية",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            16,
+            25
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            26,
+            15
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            20,
+            17
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            17,
+            24
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            22,
+            9
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            15,
+            16
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            24,
+            20
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            18,
+            24
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            27,
+            22
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            9,
+            10
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            8,
+            14
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            24,
+            25
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            30,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "id": "child_24",
+      "name": "طفل مجهول 24",
+      "age_estimate": 6,
+      "found_location": "القاهرة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            9,
+            25
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            22,
+            21
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            29,
+            25
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            15,
+            16
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            27,
+            14
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            15,
+            16
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            30,
+            31
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            21,
+            25
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            12,
+            32
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            8,
+            12
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            18,
+            16
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            18,
+            30
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            12,
+            29
+          ]
+        }
+      ]
+    },
+    {
+      "id": "child_25",
+      "name": "طفل مجهول 25",
+      "age_estimate": 11,
+      "found_location": "المنصورة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            24,
+            8
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            17,
+            28
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            20,
+            15
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            29,
+            18
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            12,
+            32
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            9,
+            23
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            25,
+            18
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            12,
+            19
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            11,
+            15
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            28,
+            12
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            18,
+            30
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            9,
+            28
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            32,
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "id": "child_26",
+      "name": "طفل مجهول 26",
+      "age_estimate": 5,
+      "found_location": "الإسكندرية",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            29,
+            23
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            26,
+            27
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            10,
+            15
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            31,
+            10
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            26,
+            25
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            12,
+            18
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            17,
+            16
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            10,
+            15
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            31,
+            27
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            8,
+            32
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            24,
+            24
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            31,
+            18
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            31,
+            32
+          ]
+        }
+      ]
+    },
+    {
+      "id": "child_27",
+      "name": "طفل مجهول 27",
+      "age_estimate": 11,
+      "found_location": "القاهرة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            12,
+            14
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            30,
+            18
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            13,
+            32
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            31,
+            30
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            10,
+            32
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            32,
+            26
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            13,
+            21
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            31,
+            16
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            9,
+            25
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            8,
+            26
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            13,
+            31
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            20,
+            21
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            25,
+            14
+          ]
+        }
+      ]
+    },
+    {
+      "id": "child_28",
+      "name": "طفل مجهول 28",
+      "age_estimate": 4,
+      "found_location": "الإسكندرية",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            14,
+            17
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            19,
+            18
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            18,
+            30
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            21,
+            11
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            12,
+            14
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            25,
+            9
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            10,
+            9
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            10,
+            23
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            22,
+            18
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            28,
+            28
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            24,
+            23
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            20,
+            32
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            16,
+            27
+          ]
+        }
+      ]
+    },
+    {
+      "id": "child_29",
+      "name": "طفل مجهول 29",
+      "age_estimate": 9,
+      "found_location": "القاهرة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            18,
+            15
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            15,
+            16
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            18,
+            25
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            9,
+            10
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            28,
+            24
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            12,
+            20
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            9,
+            11
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            22,
+            26
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            13,
+            25
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            28,
+            16
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            30,
+            11
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            31,
+            31
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            26,
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "id": "child_30",
+      "name": "طفل مجهول 30",
+      "age_estimate": 7,
+      "found_location": "القاهرة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            19,
+            20
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            24,
+            25
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            29,
+            17
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            20,
+            21
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            30,
+            23
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            29,
+            23
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            14,
+            15
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            19,
+            17
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            17,
+            27
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            27,
+            13
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            15,
+            31
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            16,
+            9
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            11,
+            21
+          ]
+        }
+      ]
+    },
+    {
+      "id": "child_31",
+      "name": "طفل مجهول 31",
+      "age_estimate": 2,
+      "found_location": "المنصورة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            12,
+            10
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            20,
+            18
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            23,
+            32
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            29,
+            29
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            19,
+            28
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            8,
+            16
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            23,
+            14
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            29,
+            27
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            26,
+            30
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            21,
+            30
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            17,
+            30
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            19,
+            15
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            9,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "id": "child_32",
+      "name": "طفل مجهول 32",
+      "age_estimate": 4,
+      "found_location": "الجيزة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            19,
+            23
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            11,
+            8
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            11,
+            13
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            19,
+            10
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            18,
+            26
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            15,
+            22
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            30,
+            29
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            17,
+            18
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            9,
+            28
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            25,
+            25
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            28,
+            17
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            14,
+            16
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            12,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "id": "child_33",
+      "name": "طفل مجهول 33",
+      "age_estimate": 5,
+      "found_location": "الإسكندرية",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            9,
+            8
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            30,
+            16
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            9,
+            25
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            25,
+            18
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            8,
+            23
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            8,
+            11
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            9,
+            31
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            15,
+            27
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            13,
+            21
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            11,
+            9
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            8,
+            11
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            23,
+            12
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            30,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "id": "child_34",
+      "name": "طفل مجهول 34",
+      "age_estimate": 5,
+      "found_location": "الإسكندرية",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            30,
+            31
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            11,
+            21
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            17,
+            26
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            31,
+            31
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            12,
+            9
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            10,
+            13
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            24,
+            19
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            21,
+            12
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            29,
+            17
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            10,
+            30
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            25,
+            12
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            17,
+            17
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            12,
+            14
+          ]
+        }
+      ]
+    },
+    {
+      "id": "child_35",
+      "name": "طفل مجهول 35",
+      "age_estimate": 8,
+      "found_location": "الإسكندرية",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            8,
+            8
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            21,
+            10
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            23,
+            31
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            18,
+            18
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            11,
+            22
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            32,
+            28
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            23,
+            16
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            28,
+            9
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            20,
+            28
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            17,
+            8
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            29,
+            8
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            26,
+            27
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            21,
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "id": "child_36",
+      "name": "طفل مجهول 36",
+      "age_estimate": 6,
+      "found_location": "المنصورة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            16,
+            27
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            24,
+            21
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            31,
+            9
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            20,
+            17
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            8,
+            14
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            24,
+            21
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            14,
+            26
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            29,
+            14
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            9,
+            26
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            15,
+            14
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            13,
+            17
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            12,
+            27
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            23,
+            27
+          ]
+        }
+      ]
+    },
+    {
+      "id": "child_37",
+      "name": "طفل مجهول 37",
+      "age_estimate": 10,
+      "found_location": "الإسكندرية",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            20,
+            32
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            24,
+            10
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            8,
+            21
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            28,
+            27
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            31,
+            24
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            31,
+            8
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            8,
+            9
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            28,
+            9
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            19,
+            23
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            12,
+            32
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            17,
+            22
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            15,
+            15
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            24,
+            28
+          ]
+        }
+      ]
+    },
+    {
+      "id": "child_38",
+      "name": "طفل مجهول 38",
+      "age_estimate": 9,
+      "found_location": "الجيزة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            20,
+            8
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            10,
+            22
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            11,
+            10
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            22,
+            10
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            13,
+            8
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            8,
+            10
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            22,
+            12
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            23,
+            24
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            14,
+            11
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            24,
+            15
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            27,
+            23
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            21,
+            18
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            11,
+            27
+          ]
+        }
+      ]
+    },
+    {
+      "id": "child_39",
+      "name": "طفل مجهول 39",
+      "age_estimate": 4,
+      "found_location": "الإسكندرية",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            21,
+            32
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            17,
+            20
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            9,
+            23
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            30,
+            19
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            31,
+            22
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            27,
+            28
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            21,
+            26
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            29,
+            16
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            24,
+            11
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            23,
+            12
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            21,
+            22
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            18,
+            26
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            24,
+            22
+          ]
+        }
+      ]
+    },
+    {
+      "id": "child_40",
+      "name": "طفل مجهول 40",
+      "age_estimate": 5,
+      "found_location": "المنصورة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            22,
+            11
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            13,
+            20
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            30,
+            14
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            21,
+            16
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            10,
+            10
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            15,
+            10
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            31,
+            21
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            13,
+            18
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            20,
+            32
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            10,
+            21
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            12,
+            11
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            27,
+            16
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            23,
+            28
+          ]
+        }
+      ]
+    },
+    {
+      "id": "child_41",
+      "name": "طفل مجهول 41",
+      "age_estimate": 3,
+      "found_location": "المنصورة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            24,
+            26
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            25,
+            26
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            16,
+            14
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            11,
+            28
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            10,
+            32
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            32,
+            14
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            13,
+            9
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            14,
+            25
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            14,
+            14
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            21,
+            21
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            9,
+            21
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            27,
+            11
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            11,
+            31
+          ]
+        }
+      ]
+    },
+    {
+      "id": "child_42",
+      "name": "طفل مجهول 42",
+      "age_estimate": 6,
+      "found_location": "القاهرة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            17,
+            16
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            22,
+            31
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            28,
+            21
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            13,
+            24
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            19,
+            10
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            10,
+            14
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            20,
+            26
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            13,
+            30
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            22,
+            28
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            18,
+            32
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            22,
+            15
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            10,
+            28
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            12,
+            15
+          ]
+        }
+      ]
+    },
+    {
+      "id": "child_43",
+      "name": "طفل مجهول 43",
+      "age_estimate": 8,
+      "found_location": "الجيزة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            12,
+            24
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            31,
+            25
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            21,
+            17
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            21,
+            25
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            12,
+            26
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            25,
+            25
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            24,
+            31
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            30,
+            11
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            28,
+            11
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            12,
+            26
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            19,
+            20
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            18,
+            25
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            31,
+            30
+          ]
+        }
+      ]
+    },
+    {
+      "id": "child_44",
+      "name": "طفل مجهول 44",
+      "age_estimate": 10,
+      "found_location": "القاهرة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            28,
+            25
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            16,
+            17
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            18,
+            26
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            24,
+            11
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            18,
+            29
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            17,
+            8
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            25,
+            11
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            8,
+            9
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            10,
+            13
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            18,
+            27
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            31,
+            30
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            32,
+            12
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            16,
+            24
+          ]
+        }
+      ]
+    },
+    {
+      "id": "child_45",
+      "name": "طفل مجهول 45",
+      "age_estimate": 3,
+      "found_location": "الإسكندرية",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            30,
+            20
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            32,
+            17
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            32,
+            23
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            31,
+            12
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            13,
+            19
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            27,
+            15
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            21,
+            12
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            29,
+            9
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            18,
+            15
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            13,
+            23
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            13,
+            28
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            15,
+            24
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            18,
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "id": "child_46",
+      "name": "طفل مجهول 46",
+      "age_estimate": 8,
+      "found_location": "الإسكندرية",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            22,
+            16
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            25,
+            22
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            16,
+            24
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            12,
+            22
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            28,
+            19
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            20,
+            18
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            11,
+            14
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            30,
+            25
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            27,
+            22
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            9,
+            21
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            9,
+            23
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            15,
+            30
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            18,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "id": "child_47",
+      "name": "طفل مجهول 47",
+      "age_estimate": 3,
+      "found_location": "الإسكندرية",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            8,
+            24
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            18,
+            31
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            11,
+            21
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            32,
+            25
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            29,
+            19
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            30,
+            10
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            8,
+            11
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            18,
+            8
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            32,
+            25
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            8,
+            25
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            14,
+            11
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            17,
+            19
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            18,
+            11
+          ]
+        }
+      ]
+    },
+    {
+      "id": "child_48",
+      "name": "طفل مجهول 48",
+      "age_estimate": 5,
+      "found_location": "الإسكندرية",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            21,
+            20
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            10,
+            14
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            9,
+            8
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            17,
+            24
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            17,
+            19
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            14,
+            15
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            10,
+            18
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            28,
+            14
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            14,
+            18
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            11,
+            27
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            12,
+            24
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            25,
+            18
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            16,
+            24
+          ]
+        }
+      ]
+    },
+    {
+      "id": "child_49",
+      "name": "طفل مجهول 49",
+      "age_estimate": 3,
+      "found_location": "الجيزة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            28,
+            24
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            17,
+            13
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            20,
+            18
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            28,
+            9
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            8,
+            8
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            11,
+            12
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            32,
+            17
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            18,
+            28
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            29,
+            13
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            14,
+            11
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            22,
+            25
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            26,
+            15
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            10,
+            32
+          ]
+        }
+      ]
+    },
+    {
+      "id": "child_50",
+      "name": "طفل مجهول 50",
+      "age_estimate": 3,
+      "found_location": "المنصورة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            25,
+            23
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            17,
+            26
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            13,
+            26
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            16,
+            23
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            8,
+            14
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            29,
+            17
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            17,
+            18
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            18,
+            24
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            31,
+            8
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            24,
+            26
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            31,
+            16
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            21,
+            31
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            26,
+            25
+          ]
+        }
+      ]
+    }
+  ],
+  "parents": [
+    {
+      "id": "parent_1",
+      "name": "أب يبحث عن طفله 1",
+      "expected_age": 2,
+      "lost_location": "الجيزة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            29,
+            29
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            30,
+            15
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            19,
+            28
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            11,
+            22
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            15,
+            31
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            31,
+            27
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            9,
+            31
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            27,
+            31
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            25,
+            19
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            29,
+            22
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            12,
+            17
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            23,
+            30
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            18,
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "id": "parent_2",
+      "name": "أب يبحث عن طفله 2",
+      "expected_age": 4,
+      "lost_location": "القاهرة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            17,
+            29
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            15,
+            17
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            8,
+            27
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            28,
+            29
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            29,
+            14
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            29,
+            26
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            31,
+            26
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            12,
+            16
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            32,
+            9
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            17,
+            13
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            31,
+            15
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            22,
+            8
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            23,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "id": "parent_3",
+      "name": "أب يبحث عن طفله 3",
+      "expected_age": 6,
+      "lost_location": "الإسكندرية",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            20,
+            29
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            13,
+            28
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            17,
+            21
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            13,
+            32
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            30,
+            12
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            18,
+            14
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            14,
+            10
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            12,
+            17
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            30,
+            22
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            15,
+            32
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            18,
+            18
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            25,
+            13
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            31,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "id": "parent_4",
+      "name": "أب يبحث عن طفله 4",
+      "expected_age": 2,
+      "lost_location": "الجيزة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            8,
+            12
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            22,
+            23
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            11,
+            12
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            21,
+            9
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            17,
+            29
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            21,
+            32
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            13,
+            11
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            24,
+            29
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            20,
+            13
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            8,
+            32
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            28,
+            25
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            14,
+            9
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            19,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "id": "parent_5",
+      "name": "أب يبحث عن طفله 5",
+      "expected_age": 2,
+      "lost_location": "القاهرة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            25,
+            24
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            14,
+            28
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            28,
+            15
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            23,
+            24
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            18,
+            14
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            12,
+            15
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            26,
+            30
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            24,
+            20
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            8,
+            12
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            18,
+            27
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            14,
+            21
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            30,
+            30
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            25,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "id": "parent_6",
+      "name": "أب يبحث عن طفله 6",
+      "expected_age": 11,
+      "lost_location": "الجيزة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            31,
+            12
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            20,
+            25
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            14,
+            8
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            32,
+            26
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            9,
+            10
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            19,
+            27
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            18,
+            18
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            30,
+            18
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            14,
+            24
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            8,
+            27
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            11,
+            30
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            11,
+            30
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            12,
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "id": "parent_7",
+      "name": "أب يبحث عن طفله 7",
+      "expected_age": 3,
+      "lost_location": "الجيزة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            31,
+            26
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            32,
+            28
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            9,
+            25
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            18,
+            16
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            11,
+            12
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            19,
+            23
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            22,
+            11
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            13,
+            9
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            11,
+            25
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            16,
+            26
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            10,
+            24
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            18,
+            25
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            28,
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "id": "parent_8",
+      "name": "أب يبحث عن طفله 8",
+      "expected_age": 7,
+      "lost_location": "الجيزة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            11,
+            19
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            28,
+            21
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            9,
+            16
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            32,
+            18
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            24,
+            20
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            31,
+            17
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            20,
+            24
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            32,
+            32
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            8,
+            28
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            18,
+            11
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            17,
+            24
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            12,
+            24
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            18,
+            28
+          ]
+        }
+      ]
+    },
+    {
+      "id": "parent_9",
+      "name": "أب يبحث عن طفله 9",
+      "expected_age": 4,
+      "lost_location": "القاهرة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            19,
+            15
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            22,
+            11
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            27,
+            25
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            18,
+            28
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            22,
+            28
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            8,
+            25
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            12,
+            18
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            19,
+            21
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            29,
+            24
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            31,
+            16
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            29,
+            11
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            29,
+            21
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            13,
+            26
+          ]
+        }
+      ]
+    },
+    {
+      "id": "parent_10",
+      "name": "أب يبحث عن طفله 10",
+      "expected_age": 3,
+      "lost_location": "المنصورة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            22,
+            11
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            22,
+            16
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            8,
+            14
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            29,
+            16
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            19,
+            20
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            8,
+            9
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            22,
+            17
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            15,
+            23
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            12,
+            20
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            11,
+            26
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            13,
+            10
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            18,
+            13
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            29,
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "id": "parent_11",
+      "name": "أب يبحث عن طفله 11",
+      "expected_age": 2,
+      "lost_location": "الإسكندرية",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            26,
+            32
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            11,
+            25
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            28,
+            21
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            19,
+            26
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            32,
+            14
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            19,
+            20
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            28,
+            31
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            21,
+            8
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            15,
+            24
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            9,
+            11
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            15,
+            12
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            15,
+            13
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            31,
+            28
+          ]
+        }
+      ]
+    },
+    {
+      "id": "parent_12",
+      "name": "أب يبحث عن طفله 12",
+      "expected_age": 4,
+      "lost_location": "الجيزة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            20,
+            25
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            10,
+            13
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            28,
+            32
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            24,
+            8
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            26,
+            31
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            10,
+            26
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            10,
+            12
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            8,
+            19
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            8,
+            12
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            19,
+            28
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            11,
+            20
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            25,
+            27
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            17,
+            28
+          ]
+        }
+      ]
+    },
+    {
+      "id": "parent_13",
+      "name": "أب يبحث عن طفله 13",
+      "expected_age": 4,
+      "lost_location": "الجيزة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            9,
+            15
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            9,
+            14
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            27,
+            24
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            31,
+            17
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            32,
+            16
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            32,
+            12
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            14,
+            11
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            23,
+            13
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            17,
+            31
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            14,
+            21
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            19,
+            13
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            24,
+            20
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            30,
+            14
+          ]
+        }
+      ]
+    },
+    {
+      "id": "parent_14",
+      "name": "أب يبحث عن طفله 14",
+      "expected_age": 7,
+      "lost_location": "الجيزة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            12,
+            30
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            21,
+            16
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            28,
+            27
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            27,
+            32
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            28,
+            17
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            19,
+            16
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            10,
+            22
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            18,
+            28
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            27,
+            30
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            17,
+            26
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            18,
+            32
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            16,
+            26
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            25,
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "id": "parent_15",
+      "name": "أب يبحث عن طفله 15",
+      "expected_age": 4,
+      "lost_location": "المنصورة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            11,
+            32
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            12,
+            22
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            22,
+            21
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            32,
+            20
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            23,
+            21
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            20,
+            23
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            25,
+            19
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            28,
+            22
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            13,
+            21
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            8,
+            21
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            8,
+            26
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            9,
+            22
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            15,
+            11
+          ]
+        }
+      ]
+    },
+    {
+      "id": "parent_16",
+      "name": "أب يبحث عن طفله 16",
+      "expected_age": 9,
+      "lost_location": "المنصورة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            16,
+            26
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            24,
+            9
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            12,
+            29
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            24,
+            26
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            22,
+            24
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            28,
+            29
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            28,
+            15
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            31,
+            25
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            14,
+            10
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            15,
+            31
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            26,
+            22
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            9,
+            16
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            20,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "id": "parent_17",
+      "name": "أب يبحث عن طفله 17",
+      "expected_age": 10,
+      "lost_location": "الإسكندرية",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            24,
+            15
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            31,
+            27
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            19,
+            21
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            9,
+            9
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            21,
+            18
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            26,
+            23
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            11,
+            16
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            8,
+            27
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            22,
+            31
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            14,
+            20
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            8,
+            17
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            19,
+            10
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            29,
+            24
+          ]
+        }
+      ]
+    },
+    {
+      "id": "parent_18",
+      "name": "أب يبحث عن طفله 18",
+      "expected_age": 2,
+      "lost_location": "الإسكندرية",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            22,
+            30
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            21,
+            28
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            12,
+            14
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            13,
+            10
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            18,
+            13
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            11,
+            31
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            9,
+            25
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            24,
+            18
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            9,
+            11
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            15,
+            21
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            10,
+            10
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            19,
+            17
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            22,
+            26
+          ]
+        }
+      ]
+    },
+    {
+      "id": "parent_19",
+      "name": "أب يبحث عن طفله 19",
+      "expected_age": 5,
+      "lost_location": "الجيزة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            25,
+            27
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            21,
+            31
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            16,
+            28
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            8,
+            10
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            15,
+            31
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            11,
+            10
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            27,
+            13
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            32,
+            28
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            25,
+            11
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            19,
+            16
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            24,
+            25
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            28,
+            32
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            30,
+            18
+          ]
+        }
+      ]
+    },
+    {
+      "id": "parent_20",
+      "name": "أب يبحث عن طفله 20",
+      "expected_age": 7,
+      "lost_location": "المنصورة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            31,
+            21
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            24,
+            25
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            18,
+            31
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            8,
+            15
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            25,
+            9
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            19,
+            9
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            28,
+            20
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            13,
+            28
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            32,
+            24
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            16,
+            15
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            23,
+            17
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            29,
+            32
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            19,
+            11
+          ]
+        }
+      ]
+    },
+    {
+      "id": "parent_21",
+      "name": "أب يبحث عن طفله 21",
+      "expected_age": 7,
+      "lost_location": "المنصورة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            30,
+            16
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            32,
+            30
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            9,
+            13
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            15,
+            21
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            17,
+            11
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            10,
+            21
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            19,
+            19
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            25,
+            23
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            21,
+            27
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            26,
+            26
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            13,
+            29
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            26,
+            28
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            12,
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "id": "parent_22",
+      "name": "أب يبحث عن طفله 22",
+      "expected_age": 6,
+      "lost_location": "المنصورة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            8,
+            31
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            28,
+            18
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            20,
+            18
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            17,
+            26
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            8,
+            22
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            17,
+            10
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            20,
+            12
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            17,
+            23
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            14,
+            30
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            10,
+            13
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            28,
+            18
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            24,
+            22
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "id": "parent_23",
+      "name": "أب يبحث عن طفله 23",
+      "expected_age": 8,
+      "lost_location": "الجيزة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            30,
+            12
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            17,
+            25
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            20,
+            29
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            18,
+            29
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            28,
+            19
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            15,
+            31
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            11,
+            31
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            29,
+            22
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            14,
+            24
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            10,
+            18
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            12,
+            22
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            31,
+            17
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            22,
+            14
+          ]
+        }
+      ]
+    },
+    {
+      "id": "parent_24",
+      "name": "أب يبحث عن طفله 24",
+      "expected_age": 7,
+      "lost_location": "الإسكندرية",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            26,
+            28
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            8,
+            12
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            9,
+            21
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            12,
+            26
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            10,
+            16
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            26,
+            18
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            12,
+            14
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            13,
+            13
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            22,
+            14
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            30,
+            24
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            12,
+            14
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            11,
+            15
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            9,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "id": "parent_25",
+      "name": "أب يبحث عن طفله 25",
+      "expected_age": 2,
+      "lost_location": "المنصورة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            16,
+            16
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            10,
+            12
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            30,
+            24
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            14,
+            29
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            11,
+            13
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            30,
+            19
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            28,
+            27
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            14,
+            27
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            18,
+            31
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            19,
+            28
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            16,
+            12
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            14,
+            28
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            21,
+            22
+          ]
+        }
+      ]
+    },
+    {
+      "id": "parent_26",
+      "name": "أب يبحث عن طفله 26",
+      "expected_age": 5,
+      "lost_location": "القاهرة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            19,
+            22
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            13,
+            14
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            10,
+            13
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            10,
+            23
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            22,
+            11
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            19,
+            15
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            10,
+            12
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            16,
+            30
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            19,
+            28
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            17,
+            10
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            32,
+            10
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            19,
+            28
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            18,
+            11
+          ]
+        }
+      ]
+    },
+    {
+      "id": "parent_27",
+      "name": "أب يبحث عن طفله 27",
+      "expected_age": 3,
+      "lost_location": "القاهرة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            23,
+            12
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            17,
+            29
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            25,
+            22
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            9,
+            26
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            20,
+            23
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            29,
+            9
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            21,
+            8
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            20,
+            23
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            25,
+            23
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            31,
+            8
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            8,
+            8
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            27,
+            29
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            16,
+            15
+          ]
+        }
+      ]
+    },
+    {
+      "id": "parent_28",
+      "name": "أب يبحث عن طفله 28",
+      "expected_age": 9,
+      "lost_location": "الجيزة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            11,
+            14
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            25,
+            21
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            25,
+            15
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            13,
+            29
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            23,
+            26
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            11,
+            25
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            19,
+            13
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            11,
+            18
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            9,
+            18
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            20,
+            11
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            11,
+            25
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            9,
+            17
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            30,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "id": "parent_29",
+      "name": "أب يبحث عن طفله 29",
+      "expected_age": 6,
+      "lost_location": "الجيزة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            17,
+            9
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            20,
+            22
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            24,
+            29
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            18,
+            31
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            8,
+            10
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            20,
+            11
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            12,
+            18
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            26,
+            21
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            21,
+            20
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            25,
+            8
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            14,
+            8
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            8,
+            10
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            25,
+            14
+          ]
+        }
+      ]
+    },
+    {
+      "id": "parent_30",
+      "name": "أب يبحث عن طفله 30",
+      "expected_age": 11,
+      "lost_location": "الجيزة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            26,
+            23
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            17,
+            19
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            12,
+            10
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            27,
+            27
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            11,
+            30
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            22,
+            15
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            18,
+            30
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            29,
+            28
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            15,
+            23
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            27,
+            13
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            12,
+            28
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            21,
+            14
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            18,
+            26
+          ]
+        }
+      ]
+    },
+    {
+      "id": "parent_31",
+      "name": "أب يبحث عن طفله 31",
+      "expected_age": 4,
+      "lost_location": "الجيزة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            21,
+            29
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            22,
+            27
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            30,
+            19
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            12,
+            17
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            11,
+            32
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            18,
+            25
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            8,
+            9
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            23,
+            30
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            9,
+            20
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            30,
+            26
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            11,
+            23
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            29,
+            25
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            30,
+            24
+          ]
+        }
+      ]
+    },
+    {
+      "id": "parent_32",
+      "name": "أب يبحث عن طفله 32",
+      "expected_age": 5,
+      "lost_location": "الإسكندرية",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            8,
+            10
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            19,
+            31
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            28,
+            14
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            32,
+            9
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            20,
+            28
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            31,
+            30
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            28,
+            22
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            20,
+            24
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            26,
+            11
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            23,
+            28
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            23,
+            19
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            15,
+            23
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            12,
+            15
+          ]
+        }
+      ]
+    },
+    {
+      "id": "parent_33",
+      "name": "أب يبحث عن طفله 33",
+      "expected_age": 4,
+      "lost_location": "المنصورة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            16,
+            9
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            9,
+            19
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            21,
+            27
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            29,
+            12
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            12,
+            19
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            9,
+            17
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            31,
+            22
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            9,
+            25
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            14,
+            9
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            19,
+            31
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            21,
+            20
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            24,
+            17
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            25,
+            23
+          ]
+        }
+      ]
+    },
+    {
+      "id": "parent_34",
+      "name": "أب يبحث عن طفله 34",
+      "expected_age": 5,
+      "lost_location": "الإسكندرية",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            24,
+            17
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            27,
+            24
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            12,
+            26
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            18,
+            10
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            8,
+            13
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            9,
+            19
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            17,
+            23
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            25,
+            26
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            21,
+            13
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            20,
+            27
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            13,
+            18
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            21,
+            15
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            10,
+            24
+          ]
+        }
+      ]
+    },
+    {
+      "id": "parent_35",
+      "name": "أب يبحث عن طفله 35",
+      "expected_age": 11,
+      "lost_location": "الجيزة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            11,
+            26
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            31,
+            8
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            8,
+            25
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            11,
+            12
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            10,
+            14
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            22,
+            26
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            9,
+            30
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            18,
+            28
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            18,
+            27
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            29,
+            24
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            26,
+            20
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            25,
+            21
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            12,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "id": "parent_36",
+      "name": "أب يبحث عن طفله 36",
+      "expected_age": 8,
+      "lost_location": "الجيزة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            22,
+            31
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            21,
+            24
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            13,
+            27
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            28,
+            10
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            32,
+            27
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            9,
+            32
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            9,
+            28
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            22,
+            9
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            31,
+            20
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            31,
+            28
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            25,
+            10
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            21,
+            18
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            17,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "id": "parent_37",
+      "name": "أب يبحث عن طفله 37",
+      "expected_age": 9,
+      "lost_location": "المنصورة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            30,
+            18
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            29,
+            20
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            32,
+            11
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            19,
+            28
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            9,
+            8
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            8,
+            14
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            24,
+            26
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            8,
+            22
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            21,
+            23
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            26,
+            26
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            10,
+            8
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            24,
+            17
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            13,
+            14
+          ]
+        }
+      ]
+    },
+    {
+      "id": "parent_38",
+      "name": "أب يبحث عن طفله 38",
+      "expected_age": 2,
+      "lost_location": "القاهرة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            23,
+            16
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            20,
+            18
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            32,
+            16
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            12,
+            29
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            10,
+            26
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            21,
+            16
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            20,
+            29
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            8,
+            19
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            28,
+            9
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            23,
+            13
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            29,
+            8
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            20,
+            14
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            26,
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "id": "parent_39",
+      "name": "أب يبحث عن طفله 39",
+      "expected_age": 8,
+      "lost_location": "القاهرة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            22,
+            32
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            26,
+            21
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            26,
+            21
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            27,
+            11
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            25,
+            26
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            31,
+            10
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            31,
+            24
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            9,
+            20
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            29,
+            32
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            22,
+            28
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            11,
+            8
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            31,
+            8
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            19,
+            15
+          ]
+        }
+      ]
+    },
+    {
+      "id": "parent_40",
+      "name": "أب يبحث عن طفله 40",
+      "expected_age": 8,
+      "lost_location": "الجيزة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            30,
+            11
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            31,
+            15
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            8,
+            18
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            25,
+            27
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            28,
+            23
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            32,
+            22
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            15,
+            31
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            31,
+            20
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            16,
+            18
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            27,
+            23
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            13,
+            30
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            19,
+            29
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            22,
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "id": "parent_41",
+      "name": "أب يبحث عن طفله 41",
+      "expected_age": 3,
+      "lost_location": "المنصورة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            14,
+            28
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            28,
+            21
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            28,
+            11
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            28,
+            23
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            29,
+            31
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            9,
+            20
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            29,
+            31
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            13,
+            11
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            31,
+            29
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            13,
+            22
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            10,
+            16
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            30,
+            9
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            14,
+            17
+          ]
+        }
+      ]
+    },
+    {
+      "id": "parent_42",
+      "name": "أب يبحث عن طفله 42",
+      "expected_age": 11,
+      "lost_location": "القاهرة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            16,
+            21
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            12,
+            20
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            24,
+            23
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            21,
+            21
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            10,
+            21
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            25,
+            18
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            9,
+            25
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            23,
+            10
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            22,
+            15
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            10,
+            18
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            18,
+            25
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            29,
+            10
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            24,
+            29
+          ]
+        }
+      ]
+    },
+    {
+      "id": "parent_43",
+      "name": "أب يبحث عن طفله 43",
+      "expected_age": 8,
+      "lost_location": "القاهرة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            26,
+            24
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            32,
+            15
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            11,
+            13
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            19,
+            26
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            17,
+            30
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            19,
+            22
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            19,
+            19
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            13,
+            14
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            20,
+            23
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            26,
+            32
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            28,
+            8
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            9,
+            24
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            27,
+            23
+          ]
+        }
+      ]
+    },
+    {
+      "id": "parent_44",
+      "name": "أب يبحث عن طفله 44",
+      "expected_age": 3,
+      "lost_location": "الجيزة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            12,
+            32
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            26,
+            31
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            8,
+            25
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            22,
+            19
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            19,
+            21
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            15,
+            16
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            12,
+            29
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            32,
+            16
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            21,
+            22
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            17,
+            28
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            12,
+            31
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            27,
+            9
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            25,
+            27
+          ]
+        }
+      ]
+    },
+    {
+      "id": "parent_45",
+      "name": "أب يبحث عن طفله 45",
+      "expected_age": 2,
+      "lost_location": "الجيزة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            8,
+            30
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            8,
+            30
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            12,
+            10
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            11,
+            25
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            30,
+            29
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            19,
+            32
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            11,
+            13
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            27,
+            24
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            30,
+            18
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            17,
+            9
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            30,
+            27
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            27,
+            15
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            9,
+            15
+          ]
+        }
+      ]
+    },
+    {
+      "id": "parent_46",
+      "name": "أب يبحث عن طفله 46",
+      "expected_age": 3,
+      "lost_location": "الجيزة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            9,
+            15
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            8,
+            24
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            17,
+            31
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            9,
+            27
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            25,
+            20
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            12,
+            23
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            28,
+            29
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            28,
+            21
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            22,
+            15
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            20,
+            24
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            12,
+            10
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            32,
+            17
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            31,
+            31
+          ]
+        }
+      ]
+    },
+    {
+      "id": "parent_47",
+      "name": "أب يبحث عن طفله 47",
+      "expected_age": 5,
+      "lost_location": "المنصورة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            31,
+            28
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            21,
+            15
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            12,
+            8
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            12,
+            14
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            32,
+            12
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            12,
+            19
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            8,
+            32
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            17,
+            22
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            31,
+            18
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            25,
+            28
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            8,
+            29
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            32,
+            12
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            27,
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "id": "parent_48",
+      "name": "أب يبحث عن طفله 48",
+      "expected_age": 2,
+      "lost_location": "القاهرة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            9,
+            21
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            32,
+            13
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            25,
+            25
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            12,
+            30
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            14,
+            13
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            12,
+            14
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            10,
+            26
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            20,
+            20
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            21,
+            17
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            28,
+            30
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            16,
+            20
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            21,
+            9
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            26,
+            30
+          ]
+        }
+      ]
+    },
+    {
+      "id": "parent_49",
+      "name": "أب يبحث عن طفله 49",
+      "expected_age": 6,
+      "lost_location": "القاهرة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            18,
+            28
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            28,
+            13
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            30,
+            30
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            24,
+            8
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            23,
+            24
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            29,
+            9
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            13,
+            19
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            8,
+            12
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            19,
+            8
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            31,
+            26
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            28,
+            26
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            17,
+            13
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            23,
+            32
+          ]
+        }
+      ]
+    },
+    {
+      "id": "parent_50",
+      "name": "أب يبحث عن طفله 50",
+      "expected_age": 6,
+      "lost_location": "القاهرة",
+      "dna_profile": [
+        {
+          "locus": "D8S1179",
+          "repeats": [
+            25,
+            11
+          ]
+        },
+        {
+          "locus": "D21S11",
+          "repeats": [
+            10,
+            29
+          ]
+        },
+        {
+          "locus": "D7S820",
+          "repeats": [
+            11,
+            25
+          ]
+        },
+        {
+          "locus": "CSF1PO",
+          "repeats": [
+            8,
+            10
+          ]
+        },
+        {
+          "locus": "D3S1358",
+          "repeats": [
+            23,
+            11
+          ]
+        },
+        {
+          "locus": "TH01",
+          "repeats": [
+            31,
+            26
+          ]
+        },
+        {
+          "locus": "D13S317",
+          "repeats": [
+            18,
+            30
+          ]
+        },
+        {
+          "locus": "D16S539",
+          "repeats": [
+            24,
+            17
+          ]
+        },
+        {
+          "locus": "D2S1338",
+          "repeats": [
+            12,
+            23
+          ]
+        },
+        {
+          "locus": "D19S433",
+          "repeats": [
+            26,
+            11
+          ]
+        },
+        {
+          "locus": "vWA",
+          "repeats": [
+            12,
+            20
+          ]
+        },
+        {
+          "locus": "TPOX",
+          "repeats": [
+            16,
+            23
+          ]
+        },
+        {
+          "locus": "D18S51",
+          "repeats": [
+            9,
+            16
+          ]
+        }
+      ]
+    }
+  ]
+}
