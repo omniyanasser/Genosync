@@ -1,18 +1,22 @@
+import Hero from "../components/ui/Home/Hero";
+import Features from "../components/ui/Home/Features";
+
+
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-center p-24 bg-slate-50">
-      <div className="text-center space-y-6 bg-white p-10 rounded-2xl shadow-sm border border-slate-200">
-        <h1 className="text-4xl font-extrabold text-blue-900 tracking-tight">
-          GenoSync: نظام مطابقة الحمض النووي
-        </h1>
-        <div className="h-1 w-20 bg-blue-500 mx-auto rounded-full"></div>
-        <p className="text-lg text-slate-600 max-w-md mx-auto leading-relaxed">
-          منصة متطورة لتحليل ومطابقة بيانات الـ DNA لدعم الملاجئ والمؤسسات.
-        </p>
-        <div className="animate-pulse text-sm font-medium text-blue-400">
-          جاري تجهيز بيئة العمل...
-        </div>
+    <main className="min-h-screen bg-slate-50 flex flex-col selection:bg-blue-100">
+      {/* Background decoration (optional gradient) */}
+      <div className="absolute inset-0 bg-[linear-gradient(to_right,#80808012_1px,transparent_1px),linear-gradient(to_bottom,#80808012_1px,transparent_1px)] bg-[size:24px_24px] pointer-events-none"></div>
+      
+      <div className="relative z-10">
+        <Hero />
+        <Features />
       </div>
+      
+      {/* Simple Footer */}
+      <footer className="mt-auto py-8 text-center text-slate-500 text-sm relative z-10 border-t border-slate-200">
+        <p>© 2026 GenoSync - نظام مطابقة حمض نووي للملاجئ. جميع الحقوق محفوظة.</p>
+      </footer>
     </main>
   );
 }
