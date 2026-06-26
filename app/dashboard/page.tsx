@@ -1,5 +1,4 @@
 // @ts-nocheck
-git add .
 
 "use client";
 
