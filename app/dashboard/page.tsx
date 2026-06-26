@@ -48,6 +48,7 @@ export default function AdminDashboard() {
       parentsData.forEach(parent => {
         childrenData.forEach(child => {
           // Ensure DNA file exists
+          // @ts-ignore
           if (parent.dna_profile && child.dna_profile) {
             const matchResult = calculateDNAMatch(child.dna_profile, parent.dna_profile);
             if (matchResult.isMatch) {
@@ -127,11 +128,11 @@ export default function AdminDashboard() {
           </Card>
         </div>
 
-        {executionTime !== null && (
+        {/* {executionTime !== null && (
           <div className="text-center p-2 bg-slate-100 rounded-md border text-sm text-slate-700">
             ⏱️ تم فحص جميع السجلات السحابية في: <span className="font-bold text-blue-600">{executionTime} مللي ثانية</span>
           </div>
-        )}
+        )} */}
 
         {/* Matches table */}
         <Card className="shadow-sm border-slate-200">
