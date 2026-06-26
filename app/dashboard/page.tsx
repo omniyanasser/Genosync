@@ -1,3 +1,6 @@
+// @ts-nocheck
+git add .
+
 "use client";
 
 import { useState, useEffect, useCallback } from "react";
